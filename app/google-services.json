@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "125779626395",
+    "firebase_url": "https://buscachinossi.firebaseio.com",
+    "project_id": "buscachinossi",
+    "storage_bucket": "buscachinossi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125779626395:android:3a12edb34a394a52",
+        "android_client_info": {
+          "package_name": "com.example.marianoperez.buscachinos_v_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125779626395-8117c91h0spkp4bhe1qa1huvvlsjg4j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marianoperez.buscachinos_v_10",
+            "certificate_hash": "f0f6ce97ef14ee4809546df89f01cab5d81795ba"
+          }
+        },
+        {
+          "client_id": "125779626395-ano623dmol6qkg1rtmqudoqcgqgmc7c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnlJdgzPoIPBKfUAWvBGOui_eRP6N6pQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125779626395-ano623dmol6qkg1rtmqudoqcgqgmc7c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
